@@ -40,3 +40,15 @@
 .cetegories img{
     width: 105px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px;
+}
+#contact-us{
+    height: 300px;
+}
+.fotter{
+    text-align: center;
+    color:brown;
+}
